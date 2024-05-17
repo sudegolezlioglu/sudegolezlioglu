@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @sudegolezlioglu
+- ı am a computer engineering
+- ı enjoy working with projects
   
 <!---
 sudegolezlioglu/sudegolezlioglu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
