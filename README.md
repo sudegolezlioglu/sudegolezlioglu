@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sudegolezlioglu
-- ı am a computer engineering
+- ı am a computer engineer
 - ı enjoy working with projects
   
 <!---
